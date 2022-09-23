@@ -1,0 +1,46 @@
+.codecloudsCustomCheckbox .input-checkbox {
+    display: inline-block !important;
+    width: 5% !important;
+    background: black !important;
+}
+
+.myCustomLink {
+    color: blue;
+}
+
+.cc-nft-coupon {
+    padding: 15px;
+    background: #0e90d0;
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+.cc-nft-coupon a{
+    color: #fff;
+    text-decoration: underline;
+}
+
+.toggle-cc-coupon{
+    display: none;
+}
+.cc-coupon-section {
+    margin-bottom: 20px;
+    padding: 15px;
+}
+.error {
+    color: red;
+    padding-bottom: 0px;
+}
+.success {
+    color: green;
+    padding-bottom: 0px;
+}
+.cc-nft-coupon-list {
+    padding: 5px;
+    background: #fff;
+    color: black;
+    border: 1px solid #ccc;
+}
+#couponListSection {
+    margin-bottom: 10px;
+}

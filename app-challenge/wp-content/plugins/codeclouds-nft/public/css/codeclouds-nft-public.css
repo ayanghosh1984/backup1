@@ -1,0 +1,57 @@
+.error {
+    color: red;
+    padding-bottom: 0px;
+}
+.success {
+    color: green;
+    padding-bottom: 0px;
+}
+.f-r {
+    float: right;
+}
+.f-l {
+   float: left;
+}
+.success {
+    color: green;
+    padding-bottom: 0px;
+}
+
+.cc-nft-coupon-section {
+    padding: 15px;
+    background: #0e90d0;
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+.cc-nft-coupon-section a{
+    color: #fff;
+    text-decoration: underline;
+}
+
+.cc-nft-coupon-toggle{
+    display: none;
+}
+#cc-nft-coupon-form-section {
+    margin-bottom: 40px;
+    padding: 15px;
+}
+.cc-nft-coupon-list-single {
+    padding: 5px;
+    background: #fff;
+    color: black;
+    border: 1px solid #ccc;
+}
+#cc-nft-coupon-list {
+    margin-bottom: 10px;
+}
+.cc-nft-coupon-list-single.cc-nft-coupon-list-fade {
+    opacity: 0.5;
+}
+#cc-nft-coupon-remove {
+    cursor: pointer;
+    font-size: 27px;
+}
+#cc-nft-coupon-applied-text {
+    font-size: 20px;
+}
